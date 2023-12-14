@@ -1,20 +1,20 @@
 # Gmail-Hack
-termux-setup-storage
+```termux-setup-storage```
 .
 .
-apt full-upgrade
+```apt full-upgrade```
 .
 .
-apt install git
+```apt install git```
 .
 .
-git clone https://github.com/Hack-sadeghi/Gmail-Hack
+```git clone https://github.com/Hack-sadeghi/Gmail-Hack```
 .
 .
-cd Gmail-Hack
+```cd Gmail-Hack```
 .
 .
-bash install.sh
+```bash install.sh```
 .
 .
-python3 Mail-Hack
+```python3 Mail-Hack```
